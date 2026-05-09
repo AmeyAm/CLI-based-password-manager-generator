@@ -1,0 +1,10 @@
+# Build outputs
+main
+password_manager
+*.o
+
+# Local password storage
+passwords.txt
+
+# Local Codex/editor metadata
+.codex
